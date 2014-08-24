@@ -3,6 +3,17 @@ plsqldevLauncher
 
 一个可以启动plsqldev在不同环境变量的工具，不修改系统
 
+plsql.exe 下载链接
+================
+http://pan.baidu.com/s/1eQEJzoQ  密码  tgj2
+
+完整包下载地址
+================
+链接: http://pan.baidu.com/s/1pJNo7zH 密码: f4qi
+
+配置文件样例
+================
+
 [CTRL]
 ;多开PLSQL Dev，true 允许
 
